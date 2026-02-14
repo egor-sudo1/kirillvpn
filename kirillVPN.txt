@@ -6,4 +6,5 @@ vless://48d0fe3f-c841-4442-94c6-348542c14de4@178.173.251.31:443?type=tcp&securit
 vless://0232634e-11c1-4800-a922-0f2db9fe10c6@62.182.195.233:443?type=tcp&security=reality&encryption=none&flow=&sni=www.icloud.com&fp=random&pbk=Xejdb8gKNVnXsnfXjgAm9ndXw57qFA0S5dpOki-aoGI&sid=0d90df693253b4#🇸🇪 Швеция
 vless://d2b28ff6-33b5-4855-8481-3d76a8f02640@151.243.18.252:443?type=tcp&security=reality&encryption=none&flow=&sni=www.nvidia.com&fp=random&pbk=Nyis_sdrKFdmvej7g4VTDCP43VsIFTdDjLjgfTjuvTQ&sid=3f#🇺🇸USA
 vless://39e46de6-65d6-476a-967b-3caadd5ae921@77.239.107.245:443?type=tcp&security=reality&encryption=none&flow=&sni=www.apple.com&fp=random&pbk=khMoAwtJ89JL3_ENyIP7hOoRTVG4iVEvmr4BFDKDSRo&sid=2f76a842bd07#🇷🇺Россия
+vless://db37094f-5092-4cdf-a6a6-925de263eb3b@0.0.0.0:1?flow=&type=tcp&headerType=none&security=none#ОБХОДЫ БЕЛЫХ СПИСКОВ⬇️
 
